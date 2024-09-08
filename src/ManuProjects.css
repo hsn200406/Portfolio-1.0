@@ -1,0 +1,32 @@
+.manu-projects-section {
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(90, 85, 90, 0.897);
+  height: 100vh;
+}
+.manu-projects h1 {
+    padding: 20px;
+    color: #ececec;
+    font-style: initial;
+    font-family: 'Bubblegum Sans', sans-serif;;
+    text-align: center;
+}
+
+.project-item {
+  background-color: rgb(226, 230, 238);
+  padding: 100px;
+  border-radius: 20px;
+  font-size: 20px;
+  display: flex;
+  align-items: flex-start;
+  text-align: center;
+  justify-content: center;
+  height: 300px;
+}
+
+.project-item h2 {
+  margin: 0;
+}
+.manu-project-list {
+  margin-top: 5px;
+}
